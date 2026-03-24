@@ -1,0 +1,7 @@
+{
+  "name": "Xianniu Brain",
+  "description": "Sovereign Enterprise Intelligence Core - AI-driven strategic monitoring and report synthesis platform.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
